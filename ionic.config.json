@@ -1,0 +1,7 @@
+{
+  "name": "ConnectToWifi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
